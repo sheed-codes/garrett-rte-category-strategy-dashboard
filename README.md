@@ -16,9 +16,6 @@ The project was built using Python (Google Colab) for data preparation and Looke
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
 
 ---
 
